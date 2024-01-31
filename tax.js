@@ -1,7 +1,7 @@
 let salaryPerMonth = 15000;
-let socialInsuranceBase = 18630;
-let providentFundBase = 25500;
-let additionalDeductionPerMonth = 2000;
+let socialInsuranceBase = 21228;
+let providentFundBase = 29353;
+let additionalDeductionPerMonth = 3000;
 
 let oldAgeInsuranceRate = 0.08;
 let medicalInsuranceRate = 0.02;
